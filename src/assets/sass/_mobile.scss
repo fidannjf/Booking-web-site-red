@@ -1,0 +1,425 @@
+@media only screen and (max-width: 992px) and (min-width: 576px)  {
+    .header-btns-main,
+    .main-nav,
+    .up-search-part,
+    .up-search-part-second{
+        display: none;
+    }
+.hamburger-menu{
+    display: block;
+}
+}
+@media only screen and (max-width: 992px) and (min-width: 768px){
+.acvtivity-wrapper{
+    flex-wrap: wrap;
+    justify-content: start !important;
+    margin-left: 20px;
+}
+.activities{
+    margin-left: 30px;
+}
+.search-part{
+    margin-left: 100px;
+}
+.date,
+.search-part{
+    margin-top: 20px;
+}
+.search-part{
+    width: 60px;
+    height: 50px;
+}
+.main-search-icon{
+    width: 20px;
+    height: 20px;
+}
+.main-margin{
+    margin-left: 0;
+}
+.footer-input{
+    margin-left: 0;
+}
+}
+@media only screen and (max-width: 768px) and (min-width: 576px){
+    .payment-wrapper{
+        top: 30px;
+        left: 50px;
+    }
+    .main-margin{
+        margin-left: 0;
+    }
+    .footer-input{
+        margin-left: 0;
+    }
+    .activity{
+        width: 80%;
+        margin-top: 150px;
+    }
+    .activities{
+        margin-left: 30px;
+    }
+    .acvtivity-wrapper{
+        flex-wrap: wrap;
+        justify-content: start !important;
+        margin-left: 20px;
+    }
+    .search-part{
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    .date{
+        margin-top: 20px;
+    }
+    .search-part{
+        width: 60px;
+        height: 50px;
+    }
+    .main-search-icon{
+        width: 20px;
+        height: 20px;
+    }
+    .calling{
+        display: none;
+    }
+    .main-red-part-text{
+        font-size: 25px;
+    }
+    .red-down-text{
+        font-size: 20px;
+    }
+    .for-sales-wrapper,
+.sales-wrapper-second{
+    width: 100%;
+    height: 300px;
+}
+.audio-box{
+    width: 45px;
+    height: 45px;
+}
+.icon-headset{
+    width: 30px;
+    height: 30px;
+    margin-top: 7px;
+}
+.for-sales{
+    font-size: 18px;
+}
+.sales-text,
+.sales-mail,
+.call-number{
+    font-size: 15px;
+}
+    .first-slider.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,
+    .second-slider.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+      width: 32px;
+      height: 32px;
+    }
+    .first-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot,
+    .second-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot {
+        right: 0;
+    }
+    .first-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,
+    .second-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+        right: 40px;
+    }
+    .travel-second-part{
+        margin-top: 30px;
+    }
+    .travel-first-part,
+    .travel-second-part{
+        width: 100%;
+        height: 300px;
+    }
+    .vietnam-wrapper,
+    .paris-wrapper,
+    .london-wrapper,
+    .greece-wrapper,
+    .amsterdam-wrapper{
+        width: 100%;
+        height: 300px;
+    }
+    .greece-wrapper{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .paris-wrapper{
+        margin-top: 20px;
+    }
+    .greece-part:hover .visit-top,
+    .vietnam-part:hover .visit-top,
+    .london-part:hover .visit-top,
+    .amsterdam-part:hover .visit-top{
+        top: 145px;
+    }
+    .showing-result{
+        font-size: 15px;
+    }
+
+}
+@media only screen and (max-width: 1200px) and (min-width: 992px){
+    .dis-wrapper{
+        flex-wrap: wrap;
+    }
+    .discount-wrapper{
+        margin-left: 10px !important;
+        margin-top: 10px;
+        width: 200px;
+    }
+    .seller-item-wrapper{
+       width: 300px;
+    }
+    .travel-first-part{
+        width: 240px;
+    }
+    .travel-second-part{
+        width: 230px;
+    }
+    .for-sales-wrapper,
+.sales-wrapper-second{
+    width: 430px;
+    height: 410px;
+}
+.main-margin{
+    margin-left: 0;
+}
+.footer-input{
+    margin-left: 0;
+}
+}
+@media only screen and (max-width: 992px) and (min-width: 576px){
+    .seller-item-wrapper{
+       width: 100%;
+       height: 300px;
+    }
+    .best-seller-box{
+        margin-top: 100px;
+    }
+    .dis-wrapper{
+        flex-wrap: wrap;
+    }
+    .discount-wrapper{
+        margin-left: 10px !important;
+        margin-top: 10px;
+        width: 200px;
+    }
+    .footer-input{
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width: 576px) and (min-width: 280px){
+    .header-btns-main,
+    .main-nav,
+    .up-search-part,
+    .up-search-part-second{
+        display: none;
+    }
+    .dis-wrapper{
+        flex-wrap: wrap;
+    }
+    .discount-wrapper{
+        margin-left: 10px !important;
+        margin-top: 10px;
+        width: 200px;
+    }
+.hamburger-menu{
+    display: block;
+}
+.payment-wrapper{
+    top: 30px;
+    left: 50px;
+}
+.sm-display{
+    display: none;
+}
+.main-red-part-text{
+    font-size: 25px;
+}
+.red-down-text{
+    font-size: 20px;
+}
+.travel-second-part{
+    margin-top: 30px;
+}
+.travel-first-part,
+.travel-second-part{
+    width: 100%;
+    height: 300px;
+}
+.check-all{
+    width: 80px;
+    height: 40px;
+    top: 0;
+    font-size: 15px;
+}
+.first-slider.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,
+.second-slider.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+  width: 32px;
+  height: 32px;
+}
+.first-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot{
+    top: -320px;
+    right: 0;
+}
+.first-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    top: -320px;
+    right: 40px;
+}
+.second-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot{
+    right: 0;
+    top: -600px;
+}
+.second-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+    right: 40px;
+    top: -600px;
+}
+.vietnam-wrapper,
+.paris-wrapper,
+.london-wrapper,
+.greece-wrapper,
+.amsterdam-wrapper{
+    width: 100%;
+    height: 300px;
+}
+.greece-wrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.paris-wrapper{
+    margin-top: 20px;
+}
+.greece-part:hover .visit-top,
+.vietnam-part:hover .visit-top,
+.london-part:hover .visit-top,
+.amsterdam-part:hover .visit-top{
+    top: 145px;
+}
+.activity{
+    width: 60%;
+    margin-top: 150px;
+}
+.acvtivity-wrapper{
+    flex-wrap: wrap;
+    justify-content: start !important;
+    margin-left: 20px;
+}
+.search-part{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.search-part{
+    width: 60px;
+    height: 50px;
+}
+.main-search-icon{
+    width: 20px;
+    height: 20px;
+}
+.calling{
+    display: none;
+}
+.seller-item-wrapper{
+    width: 100%;
+    height: 300px;
+ }
+ .best-seller-box{
+     margin-top: 100px;
+ }
+  .footer-input{
+    margin-left: 0;
+}
+.quick-main{
+    display: none;
+}
+.for-sales-wrapper,
+.sales-wrapper-second{
+    width: 100%;
+    height: 300px;
+}
+.audio-box{
+    width: 45px;
+    height: 45px;
+}
+.icon-headset{
+    width: 30px;
+    height: 30px;
+    margin-top: 7px;
+}
+.for-sales{
+    font-size: 18px;
+}
+.sales-text,
+.sales-mail,
+.call-number{
+    font-size: 15px;
+}
+.showing-result{
+    font-size: 10px;
+}
+}
+@media only screen and (max-width: 576px) and (min-width: 513px){
+    .activities{
+        margin-right: 60px;
+    }
+}
+@media only screen and (max-width: 499px) and (min-width: 280px){
+    .search-part{
+        width: 100%;
+        margin-left: 0;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+    .enter-email{
+        width: 250px;
+    }
+    .activity-icons{
+        margin-left: 20px;
+    }
+    .activities{
+        margin-right: 40px;
+    }
+    .main-red-part-text{
+        font-size: 20px;
+    }
+    .red-down-text{
+        font-size: 15px;
+    }
+    .check-all-second{
+        width: 100px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .footer-contacts{
+        display: none;
+    }
+}
+@media only screen and (max-width: 360px) and (min-width: 280px){
+    .activity{
+        margin-top: 250px;
+    }
+    .activity-icons{
+      display: none;
+    }
+    .activities{
+        margin-right: 60px;
+    }
+}
+@media only screen and (max-width: 405px) and (min-width: 280px){
+    .first-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot,
+    .first-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+        top: -250px;
+    }
+    .first-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot,
+    .second-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot{
+       left: 40px;
+    }
+    .first-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,
+    .second-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+        left: 0;
+    }
+
+    .second-slider.owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot,
+    .second-slider.owl-carousel .owl-nav button.owl-next,.owl-carousel button.owl-dot{
+    top: -530px;
+    }
+}
+
